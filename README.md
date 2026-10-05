@@ -1,1 +1,1 @@
-# Resolu-es---LeetCode---Easy
+# Resoluções---LeetCode---Easy
