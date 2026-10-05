@@ -1,0 +1,2 @@
+New-Item -Path "1-Medium\.gitkeep" -ItemType File
+New-Item -Path "2-Hard\.gitkeep" -ItemType File
