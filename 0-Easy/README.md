@@ -1,0 +1,1 @@
+Move-Item -Path "0-Easy\9. Palindrome Number\README.md" -Destination "0-Easy\README.md"

@@ -1,1 +1,0 @@
-Set-Content -Path "0-Easy\README.md" -Value "# Exercícios Nível Easy"
