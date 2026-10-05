@@ -1,1 +1,1 @@
-New-Item -Path "0-Easy\README.md" -ItemType File
+Set-Content -Path "0-Easy\README.md" -Value "# Exercícios Nível Easy"
